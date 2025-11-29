@@ -17,7 +17,7 @@ Thompson Sampling
 
 UCB1 (tuned version)
 
-📈 2. Market Environment
+2. Market Environment
 
 The customer purchase probability is defined by a logistic demand curve:
 
